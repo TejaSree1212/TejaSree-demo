@@ -1,4 +1,4 @@
 # TejaSree-demo
 This is my first Git Repository.
 </br>
-Author - Teja Sree
+Author - Teja Sree(Psapula)
